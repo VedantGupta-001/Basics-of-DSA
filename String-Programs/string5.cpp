@@ -1,0 +1,1 @@
+//WAP to match two strings and is same concatinate them and if s1 > s2 then find out the square of length of s1 and s2 and add them and if s2 > s1 then add hi at the starting and bye at the end of s2.
